@@ -21,7 +21,8 @@ The analysis utilizes a dataset containing important information such as:
 A comprehensive dashboard has been created to provide valuable insights for Customer Churn Analysis. The dashboard includes key metrics such as churn rate by different age groups, churn rate by credit scores, and churn rate by account balance. This dashboard serves as a valuable tool for making data-driven decisions and optimizing marketing efforts.
 With the Customer Churn Analysis project, the aim is to proactively retain valuable customers, optimize marketing efforts, and enhance customer satisfaction through data-driven decision-making.
 
-## Dashboard
+## Dashboard 
+https://www.novypro.com/project/bankchurnanalysis click to view 
 ![churn](https://user-images.githubusercontent.com/108068313/223757652-ced788bb-9689-48f2-9e5a-016a92585d11.gif)
 
 ## **Findings**
@@ -43,7 +44,8 @@ Based on the findings, the following recommendations can be made:
        3. Address Churn Rate in Germany: Investigate the reasons behind the high churn rate in Germany and consider adapting services, schemes, and marketing 
           strategies to improve customer retention.
 
-
+# 2)120-years of Olympic-Data-Analysis
+https://www.novypro.com/project/olympicdashboard
 ![OLY](https://user-images.githubusercontent.com/118158987/223755049-61e2b427-2c29-425b-a6dc-edc5714d27e0.gif)
 
 
