@@ -44,7 +44,37 @@ Based on the findings, the following recommendations can be made:
        3. Address Churn Rate in Germany: Investigate the reasons behind the high churn rate in Germany and consider adapting services, schemes, and marketing 
           strategies to improve customer retention.
 
-# 2)120-years of Olympic-Data-Analysis
+# **2)120-years of Olympic-Data-Analysis**
+
+Olympic Analysis Dashboard
+
+The Olympic Analysis Dashboard provides valuable insights into 120 years of Olympic history, from Athens 1896 to Rio 2016. The dataset contains comprehensive details about individual athletes, including their names, genders, ages, countries, and medals. 
+
+## Key Features
+
+- *Data Cleaning:* The dataset has undergone thorough cleaning to ensure accuracy and reliability.
+- *Visualizations:* The dashboard showcases a variety of visualizations that effectively present key findings and trends.
+- *Analysis:* Through in-depth analysis, the dashboard uncovers valuable insights and answers pertinent questions related to Olympic history.
+- *Interactive Exploration:* Users can interact with the dashboard to explore the data based on different parameters, such as sports, countries, and years.
+
+## Dashboard Contents
+
+The Olympic Analysis Dashboard covers various aspects of Olympic history, including:
+- *Medal Distribution by Gender:* Visualizations showcasing the distribution of medals by gender.
+- *Medal Count by Age:* Analysis of the count of medals achieved by athletes in different age groups.
+- *Medal Count by Sport:* Examination of the count of medals awarded in various sports disciplines.
+- *Participation by Gender:* Overview of the number of male and female participants in the Olympic Games.
+- *Medal Distribution among Top 10 Athletes:* Focus on the distribution of medals among the top 10 athletes with the highest medal counts.
+
+## Filters
+- *Country:* Filter data by specific countries.
+- *Season:* Analyze data from different seasons (e.g., Summer or Winter Olympics).
+- *Games:* Focus on specific editions of the Olympic Games.
+- *Olympic Location:* Explore data based on the host city or country of the Olympic Games.
+- *Sport:* Analyze specific sports disciplines and their corresponding medal distributions.
+
+The Olympic Analysis Dashboard offers a comprehensive and interactive platform to explore Olympic history, gain insights into medal distributions, participation trends, and the achievements of top-performing athletes. Feel free to utilize the filters and visualizations to uncover fascinating patterns and trends in the world of Olympic sports.
+
 https://www.novypro.com/project/olympicdashboard
 ![OLY](https://user-images.githubusercontent.com/118158987/223755049-61e2b427-2c29-425b-a6dc-edc5714d27e0.gif)
 
