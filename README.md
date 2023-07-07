@@ -66,16 +66,10 @@ The Olympic Analysis Dashboard covers various aspects of Olympic history, includ
 - *Participation by Gender:* Overview of the number of male and female participants in the Olympic Games.
 - *Medal Distribution among Top 10 Athletes:* Focus on the distribution of medals among the top 10 athletes with the highest medal counts.
 
-## Filters
-- *Country:* Filter data by specific countries.
-- *Season:* Analyze data from different seasons (e.g., Summer or Winter Olympics).
-- *Games:* Focus on specific editions of the Olympic Games.
-- *Olympic Location:* Explore data based on the host city or country of the Olympic Games.
-- *Sport:* Analyze specific sports disciplines and their corresponding medal distributions.
-
 The Olympic Analysis Dashboard offers a comprehensive and interactive platform to explore Olympic history, gain insights into medal distributions, participation trends, and the achievements of top-performing athletes. Feel free to utilize the filters and visualizations to uncover fascinating patterns and trends in the world of Olympic sports.
 
-https://www.novypro.com/project/olympicdashboard
+https://www.novypro.com/project/olympicdashboard **click to view**
+
 ![OLY](https://user-images.githubusercontent.com/118158987/223755049-61e2b427-2c29-425b-a6dc-edc5714d27e0.gif)
 
 
